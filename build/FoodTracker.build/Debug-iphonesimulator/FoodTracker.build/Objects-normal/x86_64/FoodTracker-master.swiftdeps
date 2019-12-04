@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "7590d28c85855918be50f3e6ee168215"
+build_time: [1575424043, 685743000]
+inputs:
+  "/Users/zachgitt/Documents/repos/FoodTracker/FoodTracker/AppDelegate.swift": [1575424037, 73275891]
+  "/Users/zachgitt/Documents/repos/FoodTracker/FoodTracker/SceneDelegate.swift": [1575424037, 89967096]
+  "/Users/zachgitt/Documents/repos/FoodTracker/FoodTracker/ContentView.swift": [1575424037, 94277881]
